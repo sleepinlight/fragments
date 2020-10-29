@@ -1,0 +1,12 @@
+{
+  "name": "fragments",
+  "displayName": "fragments",
+  "expo": {
+    "name": "fragments",
+    "slug": "fragments",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
